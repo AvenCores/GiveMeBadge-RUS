@@ -2,43 +2,43 @@
   <img alt="GiveMeBadge" src="https://i.alexflipnote.dev/6DKsc2i.png" width="750px">
 </p>
 
-# Requirements 🧾
-- Discord Bot (from developer panel): (https://discord.com/developers/applications)
-- Python 3.6 or above: (https://www.python.org/downloads)
-  - Recommended version (3.10.2): https://www.python.org/downloads/release/python-3102/
-- Discord server that you own.
-  - `Settings` -> `Enable Community` (if you haven't already)
+# Требования 🧾
+- Discord Bot (из панели разработчика): (https://discord.com/developers/applications)
+- Python 3.6 или выше: (https://www.python.org/downloads)
+  - Рекомендуемая версия (3.10.2): https://www.python.org/downloads/release/python-3102/
+- Дискорд-сервер, которым вы владеете.
+  - `Настройки` -> `Включить сообщество` (если вы еще не сделали этого)
 
-## Video Tutorial 📼
-If you need visual help on how to do this, then [click here and watch this video](https://i.alexflipnote.dev/7TzozoL.mp4)
+## Видео инструкция 📼
+Если вам нужна визуальная помощь о том, как это сделать, то [нажмите здесь и посмотрите это видео](https://i.alexflipnote.dev/7TzozoL.mp4)
 
-## Usage ✨
-1. Download and install [Python](https://www.python.org/downloads) if you haven't already.
+## Использование ✨
+1. Загрузите и установите [Python](https://www.python.org/downloads) если вы еще не сделали этого.
 
    ![](https://i.alexflipnote.dev/2Ucs5Hf.png)
-2. Open CMD/Terminal inside this folder.
-   - On Windows, open a `command prompt` as administrator. Type `cd` with a space and drag the desired folder into it. Press enter. 
+2. Откройте CMD/Terminal внутри этой папки.
+   - На Windows, откройте `командная строка` от имени Администратора. Введите `cd` с пробелом и перетащите в него нужную папку. Нажмите Enter.
   
  ![](https://i.alexflipnote.dev/7PvV4Eo.png)
  
-3. Install `requirements.txt` with the command `pip install -r requirements.txt`
-   - If you are on Windows, you might need to run command prompt as Administrator)
+3. Установите `requirements.txt` командой `pip install -r requirements.txt`
+   - Если вы это делаете в Windows, то вам может потребоваться запустить командную строку от имени Администратора
 
 ![](https://i.alexflipnote.dev/4QPnZiX.gif)
 
-4. Navigate to the [discord developer panel](https://discord.com/developers/applications), sign in, and click `New Application`. Choose any name, click accept and create. Next navigate to the `Bot` section and click `Add Bot`.  Click on `Reset Token` and copy the one one.
+4. Перейдите к [дискорд панель разработчика](https://discord.com/developers/applications), войдите в систему и нажмите `Новое приложение`. Выберите любое имя, нажмите принять и создать. Затем перейдите в раздел `Бот` и нажмите `Добавить бота`. Нажмите «Сбросить токен» и скопируйте его.
 
-5. Open the script by using the command `python index.py` (It might be different, like Linux and MacOS can be using python3).
- 
+5. Откройте скрипт с помощью команды `python index.py` (Это может быть по-разному, например, Linux и MacOS могут использовать python3.).
+ Присоединиться
     ![](https://i.alexflipnote.dev/9BNt3XM.png)
-6. Paste your Discord token by copying it and right-clicking on the application. Some users can also try `CTRL + V` or `CTRL + Shift + V`.
-   - **IMPORTANT:** DO NOT share the token! Others can use this to log into your account.
-   - Note that to make it respond to your commands, you will need to keep the application/script window alive as it is what runs the bot to begin with. After you are done with everything, you can safely just close it.
-7. When the bot has logged in, copy the invite link given to you by highlighting the URL and right-clicking, then go to a browser and paste the URL.
-8. Invite the bot in to your server.
-9. Within the server, Use the `/hello` command provided to you.
-10. Enter to https://discord.com/developers/active-developer and claim your badge.
-   - It might take 24 hours before you are able to claim at all, so please take time to wait a bit if that is the case.
+6. Вставьте свой токен Discord, скопировав его и щелкнув правой кнопкой мыши приложение. Некоторые пользователи также могут попробовать `CTRL + V` или же `CTRL + Shift + V`.
+   - **ВАЖНО:** НЕ делитесь токеном! Другие люди могут использовать это для входа в вашу учетную запись.
+   - Обратите внимание, что для того, чтобы он реагировал на ваши команды, вам нужно поддерживать активность окна приложения/скрипта, так как это то, что запускает бот с самого начала. После того, как вы закончите со всем, вы можете смело просто закрыть его.
+7. Когда бот войдет в систему, скопируйте предоставленную вам ссылку-приглашение, выделив URL-адрес и щелкнув правой кнопкой мыши, затем перейдите в браузер и вставьте URL-адрес.
+8. Пригласите бота на свой сервер.
+9. Внутри сервера используйте команду `/hello`.
+10. Перейдите на https://discord.com/developers/active-developer и получите свой значок.
+   - Прежде чем вы вообще сможете подать заявку на получение значка, вы должны подождать 24 часа.
 
-## Help needed? 📞
-Join https://discord.gg/AlexFlipnote if you need help.
+## Нужна помощь? 📞
+Присоединяйся https://discord.gg/AlexFlipnote и тогда мы поможем тебе.
